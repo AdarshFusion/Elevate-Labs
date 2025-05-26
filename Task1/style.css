@@ -115,7 +115,9 @@ main .action-btn div p a:hover {
     text-decoration: none;
     z-index: 1000;
 }
-
+main{
+    margin-bottom: 50px;
+}
 main section {
     padding: 40px;
 
@@ -155,4 +157,86 @@ footer .container {
 
 p {
     color: #eaf4f4;
+}
+.hamburger {
+    display: none;
+}
+
+/* === Medium Screens (Tablets) === */
+@media screen and (max-width: 1024px) {
+    .nav-bar {
+        padding: 10px 30px;
+    }
+
+    .nav-bar .nav-item ul li a {
+        margin: 0 15px;
+        font-size: 16px;
+    }
+
+    footer .container {
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .main-box {
+        flex-direction: column;
+        gap: 30px;
+    }
+}
+
+/* === Small Screens (Phones) === */
+@media screen and (max-width: 768px) {
+    .nav-bar {
+        /* flex-direction: column; */
+        align-items: flex-start;
+        padding: 10px 20px;
+    }
+
+    .hamburger {
+        display: block;
+        font-size: 24px;
+        color: white;
+        cursor: pointer;
+        align-self: flex-end;
+    }
+
+    .nav-item {
+        display: none;
+        width: 100%;
+    }
+
+    .nav-item.active {
+        display: block;
+    }
+
+    .nav-item ul {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+        padding-left: 10px;
+    }
+
+    .nav-item ul li {
+        padding: 10px 0;
+    }
+
+    .main-heading {
+        font-size: 28px;
+    }
+
+    main section p {
+        font-size: 16px;
+        padding: 0 10px;
+    }
+
+    .action-btn {
+        font-size: 1.2rem;
+        padding: 0 10px;
+    }
+
+    footer .container {
+        flex-direction: column;
+        padding: 0 10px;
+    }
 }
