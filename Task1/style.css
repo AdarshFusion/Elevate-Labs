@@ -3,12 +3,6 @@
     padding: 0;
 }
 
-/* f6fff8
-6b9080
-eaf4f4
-cce3de
-a4c3b2 */
-
 body {
     background-color: #6b9080;
     color: #f6fff8;
@@ -55,7 +49,6 @@ header {
     margin: 0px 20px;
     text-align: center;
     text-transform: uppercase;
-    color: ;
 }
 
 main div.main-box {
@@ -67,13 +60,13 @@ main .action-btn {
     align-items: center;
     justify-content: center;
     font-size: 1.5rem;
-    
+
 }
 
 main .action-btn div {
     text-align: center;
     line-height: 1.7;
-    
+
 }
 
 
@@ -82,9 +75,11 @@ main .action-btn div p a {
     border-radius: 10px;
     padding: 10px;
 }
-main .action-btn div p a:hover{
+
+main .action-btn div p a:hover {
     box-shadow: 2px 2px 2px black;
 }
+
 .popup {
     display: none;
     position: fixed;
