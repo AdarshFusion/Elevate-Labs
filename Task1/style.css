@@ -188,7 +188,7 @@ p {
 /* === Small Screens (Phones) === */
 @media screen and (max-width: 768px) {
     .nav-bar {
-        /* flex-direction: column; */
+        flex-direction: column;
         align-items: flex-start;
         padding: 10px 20px;
     }
