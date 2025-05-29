@@ -1,0 +1,12 @@
+REST API - JSON
+
+GET /book - HTML Document Render
+GET /api/book - List all book JSON 
+
+GET /api/book/1 -Get the book with ID 1
+
+POST /api/title - Create new book
+
+PATCH /api/title/1 - Edit the book with ID 1
+
+DELETE /api/title/1 - Delete the book with ID 1

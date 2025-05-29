@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides"
+    },
+    {
+        "id": 2,
+        "title": "Educated",
+        "author": "Tara Westover"
+    },
+    {
+        "id": 3,
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens"
+    },
+    {
+        "id": 4,
+        "title": "Atomic Habits",
+        "author": "James Clear"
+    },
+    {
+        "id": 5,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho"
+    },
+    {
+        "id": 6,
+        "title": "Becoming",
+        "author": "Michelle Obama"
+    },
+    {
+        "id": 7,
+        "title": "The Midnight Library",
+        "author": "Matt Haig"
+    },
+    {
+        "id": 8,
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari"
+    },
+    {
+        "id": 9,
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki"
+    },
+    {
+        "id": 10,
+        "title": "1984",
+        "author": "George Orwell"
+    },
+    {
+        "id": 11,
+        "title": "The Book Thief",
+        "author": "Markus Zusak"
+    },
+    {
+        "id": 12,
+        "title": "The Power of Now",
+        "author": "Eckhart Tolle"
+    },
+    {
+        "id": 13,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger"
+    },
+    {
+        "id": 14,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    },
+    {
+        "id": 15,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 16,
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson"
+    },
+    {
+        "id": 17,
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill"
+    },
+    {
+        "id": 18,
+        "title": "The Road",
+        "author": "Cormac McCarthy"
+    },
+    {
+        "id": 19,
+        "title": "The Four Agreements",
+        "author": "Don Miguel Ruiz"
+    },
+    {
+        "id": 20,
+        "title": "Dune",
+        "author": "Frank Herbert"
+    },
+    {
+        "id": 21,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling"
+    },
+    {
+        "id": 22,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "id": 23,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury"
+    },
+    {
+        "id": 24,
+        "title": "Brave New World",
+        "author": "Aldous Huxley"
+    },
+    {
+        "id": 25,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen"
+    },
+    {
+        "id": 26,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë"
+    },
+    {
+        "id": 27,
+        "title": "The Fault in Our Stars",
+        "author": "John Green"
+    },
+    {
+        "id": 28,
+        "title": "Gone Girl",
+        "author": "Gillian Flynn"
+    },
+    {
+        "id": 29,
+        "title": "Me Before You",
+        "author": "Jojo Moyes"
+    },
+    {
+        "id": 30,
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins"
+    },
+    {
+        "id": 31,
+        "title": "The Shining",
+        "author": "Stephen King"
+    },
+    {
+        "id": 32,
+        "title": "It Ends With Us",
+        "author": "Colleen Hoover"
+    },
+    {
+        "id": 33,
+        "title": "Verity",
+        "author": "Colleen Hoover"
+    },
+    {
+        "id": 34,
+        "title": "Ugly Love",
+        "author": "Colleen Hoover"
+    },
+    {
+        "id": 35,
+        "title": "The 5 AM Club",
+        "author": "Robin Sharma"
+    },
+    {
+        "id": 36,
+        "title": "Deep Work",
+        "author": "Cal Newport"
+    },
+    {
+        "id": 37,
+        "title": "Start With Why",
+        "author": "Simon Sinek"
+    },
+    {
+        "id": 38,
+        "title": "Can't Hurt Me",
+        "author": "David Goggins"
+    },
+    {
+        "id": 39,
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel"
+    },
+    {
+        "id": 40,
+        "title": "Ikigai",
+        "author": "Héctor García"
+    },
+    {
+        "id": 41,
+        "title": "Zero to One",
+        "author": "Peter Thiel"
+    },
+    {
+        "id": 42,
+        "title": "Crushing It!",
+        "author": "Gary Vaynerchuk"
+    },
+    {
+        "id": 43,
+        "title": "The Lean Startup",
+        "author": "Eric Ries"
+    },
+    {
+        "id": 44,
+        "title": "Hooked",
+        "author": "Nir Eyal"
+    },
+    {
+        "id": 45,
+        "title": "Rework",
+        "author": "Jason Fried"
+    },
+    {
+        "id": 46,
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson"
+    },
+    {
+        "id": 47,
+        "title": "The Innovators",
+        "author": "Walter Isaacson"
+    },
+    {
+        "id": 48,
+        "title": "Elon Musk",
+        "author": "Ashlee Vance"
+    },
+    {
+        "id": 49,
+        "title": "Quiet",
+        "author": "Susan Cain"
+    },
+    {
+        "id": 50,
+        "title": "Grit",
+        "author": "Angela Duckworth"
+    }
+]
