@@ -26,7 +26,7 @@ Task3/
 └── README.md # Project documentation
 
 
-API Endpoints:
+# API Endpoints:
 
     GET /api/books: Retrieve all books
 
@@ -38,7 +38,7 @@ API Endpoints:
 
     DELETE /api/books/:id: Delete a book
 
- Notes
+# Notes
 
     Ensure that MOCK_DATA.json exists in the root directory. This file is used to store and retrieve book data.
 
