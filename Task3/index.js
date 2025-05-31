@@ -52,7 +52,7 @@ app.route('/api/books/:id')
 
         const deletedBook = books.splice(bookIndex, 1);
 
-        fs.writeFile('./MOCK_DATA.json', JSON.stringify(books, null, 2), (err) => {
+        fs.writeFile('./MOCK_DATA.json', JSON.stringify(books), (err) => {
             if (err) {
                 return res.status(500).json({ error: "Failed to delete book" });
             }
