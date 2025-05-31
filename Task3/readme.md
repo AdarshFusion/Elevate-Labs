@@ -28,13 +28,18 @@ Task3/
 
 # API Endpoints:
 
-GET /api/books: Retrieve all books
-GET /api/books/:id: Retrieve a book by ID
-POST /api/books: Add a new book
-PATCH /api/books/:id: Update an existing book
-DELETE /api/books/:id: Delete a book
+    GET /api/books: Retrieve all books
+
+    GET /api/books/:id: Retrieve a book by ID
+
+    POST /api/books: Add a new book
+
+    PATCH /api/books/:id: Update an existing book
+
+    DELETE /api/books/:id: Delete a book
 
 # Notes
 
-Ensure that MOCK_DATA.json exists in the root directory. This file is used to store and retrieve book data.
-The server listens on port 3000 by default.    
+    Ensure that MOCK_DATA.json exists in the root directory. This file is used to store and retrieve book data.
+
+    The server listens on port 3000 by default.    
