@@ -5,6 +5,9 @@ GET /api/book - List all book JSON
 
 GET /api/book/1 -Get the book with ID 1
 
+Dynamic path parameters
+GET /api/users/:id
+
 POST /api/title - Create new book
 
 PATCH /api/title/1 - Edit the book with ID 1
