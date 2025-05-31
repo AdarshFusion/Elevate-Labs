@@ -1,8 +1,11 @@
 const express = require("express");
+const fs = require('fs');
 const books = require("./MOCK_DATA.json");
 
 const app = express();
 const PORT = 3000;
+
+app.use(express.urlencoded({ extended: false }));
 
 // Routes
 app.get('/api/books', (req, res) => {
@@ -27,8 +30,13 @@ app.route('/api/books/:id')
 
 app.post('/api/books', (req, res) => {
     // tood create a new book
-    const body = req.body;  
-    return res.json({ status: "pending" });
+    const body = req.body;
+    books.push({ ...body, id: books.length + 1 });
+    fs.writeFile('./MOCK_DATA.json', JSON.stringify(books), (err, data) => {
+        return res.json({ status: "success", });
+    });
+    // console.log("Body",body);
+
 });
 
 
