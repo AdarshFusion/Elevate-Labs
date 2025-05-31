@@ -19,11 +19,11 @@ A simple RESTful API built with Express.js to manage a collection of books.
 
 ## 📂 Project Structure
 
-Task3/
-├── MOCK_DATA.json # JSON file containing book data
-├── index.js # Main server file
-├── package.json # Project metadata and dependencies
-└── README.md # Project documentation
+# Task3/
+- ├── MOCK_DATA.json # JSON file containing book data
+- ├── index.js # Main server file
+- ├── package.json # Project metadata and dependencies
+- └── README.md # Project documentation
 
 
 # API Endpoints:
